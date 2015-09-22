@@ -1,0 +1,25 @@
+players: #Plugin pour 16 joueurs
+  main:
+  - 
+  - 
+  remplacement:
+  - 
+  - 
+matchSerialized: 0
+messages:
+  tag: "&7[&eChampionnat&7] : &6"
+  announce: "&6Le prochain combat sera la poule %poule%, match %match% (%actual%/3)"
+  tp4: "&eC'est l'heure du du-du-du-duel entre &7%j1% &e, &7%j2% &e, &7%j3% &eet &7%j4%"
+  tp2: "&eC'est l'heure du du-du-du-duel entre &7%j1% &eet &7%j2%"
+  timer3: "&aDébut du Match dans 3 secondes !" 
+  timer2: "&bDébut du Match dans 2 secondes !" 
+  timer1: "&cDébut du Match dans 1 secondes !" 
+  start: "&eDÉBUT DU MATCH !"
+  dead4: "&7%j% &aest mort en 4e position. Il ne remporte aucun point !"
+  dead3: "&7%j% &best mort en 3e position. Il remporte 1 point !"
+  dead2: "&7%j% &best mort en 2e position. Il remporte 2 points !"
+  win: "&7%j% &best le dernier survivant. Il remporte 4 points !"
+  ovowin: "&7%j% &best le dernier survivant. Il remporte 1 point !"
+  ovodead: "&7%j% &best mort. Il remporte ne remporte aucun point !"
+  winall: "&7%j% &bremporte le championnat PVP. Félicitations à lui !"
+  

@@ -1,0 +1,9 @@
+name: ChampionShip
+main: fr.gwenzy.cs.Main
+version: 1.0
+author: Gwenzy
+commands:
+  championship:
+    usage: /cs
+    description:
+    aliases: [cs]
